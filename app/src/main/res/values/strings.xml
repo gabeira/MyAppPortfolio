@@ -3,6 +3,7 @@
 
     <string name="my_apps">My Nanodegree Apps!</string>
     <string name="action_settings">Settings</string>
+    <string name="open_app">This button will launch my</string>
 
     <string name="spotify_streamer">SPOTIFY STREAMER</string>
     <string name="scores_appp">SCORES APP</string>
